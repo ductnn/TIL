@@ -38,4 +38,8 @@ có tính toán và có lưu trữ cục bộ `(local computation and storage)`.
 
   #TODO
 
+## Reference
+
+- [Learn Hadoop](https://www.guru99.com/bigdata-tutorials.html)
+
 [me](https://ductn.info/about)
